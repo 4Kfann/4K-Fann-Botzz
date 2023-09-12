@@ -18,7 +18,7 @@ global.mods = ['6289668070504']
 global.prems = ['6289668070504', '6289668070504']
 
 // apikey
-global.lann = 'apikeylu'
+global.lann = 'RHZabend'
 // apikeylu di ganti menggunakan apikey yang di dapatkan di website https://api.betabotz.org. contohnya global.lann = 'nans' (contoh). cara mendapatkan apikey. masuk website > scroll ke bawah dan cari harga yang kamu mau ada juga yang free dan tekan > otomatis akan di arahkan untuk registrasi, isi data diri email dll. > kalo sudah klik profil dan di situ akan muncul apikey mu. terima kasih.
 
 global.APIKeys = { // APIKey Here
@@ -35,7 +35,7 @@ global.APIs = { // API Prefix
 }
 
 // Watermark
-global.nama = '4K FANN BOTZ' // nama owner
+global.nama = '4K FANN BOTZ🇮🇩' // nama owner
 global.nomor = '6289668070504' // nomor owner
 global.nans = '4K FANN BOTZ' // nama bot 
 global.thumb = 'https://i.ibb.co/m9YqsDr/neromdv3-2.jpg' // thumbnail bot ( foto menu )
